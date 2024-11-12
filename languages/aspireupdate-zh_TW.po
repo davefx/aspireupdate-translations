@@ -1,0 +1,141 @@
+# Translation of AspireUpdate in Chinese (Taiwan)
+# This file is distributed under the same license as the AspireUpdate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-11-11 17:18:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: AspireUpdate\n"
+
+#. translators: 1: The name of the plugin, 2: The documentation URL.
+#: includes/class-branding.php:106
+msgid "Your WordPress, plugin, theme and translation updates are now powered by <strong>%1$s</strong>. <a href=\"%2$s\">Learn more</a>"
+msgstr ""
+
+#. translators: 1: The name of the plugin, 2: The documentation URL.
+#: includes/class-branding.php:98
+msgid "Your theme updates are now powered by <strong>%1$s</strong>. <a href=\"%2$s\">Learn more</a>"
+msgstr ""
+
+#. translators: 1: The name of the plugin, 2: The documentation URL.
+#: includes/class-branding.php:89
+msgid "Your plugin updates are now powered by <strong>%1$s</strong>. <a href=\"%2$s\">Learn more</a>"
+msgstr ""
+
+#: includes/class-admin-settings.php:609
+msgid "Generate API Key"
+msgstr "產生 API 金鑰"
+
+#: includes/class-admin-settings.php:546
+msgid "Disables the verification of SSL to allow local testing."
+msgstr "停用 SSL 驗證，便能在本機環境進行測試。"
+
+#: includes/class-admin-settings.php:537
+msgid "Disable SSL Verification"
+msgstr "停用 SSL 驗證"
+
+#: includes/class-admin-settings.php:531
+msgid "Outputs the request URL and headers / response headers and body / string that is being rewritten."
+msgstr "輸出經過重寫的要求網址、標頭、回應標頭、內容及字串。"
+
+#: includes/class-admin-settings.php:529
+msgid "String"
+msgstr "字串"
+
+#: includes/class-admin-settings.php:528
+msgid "Response"
+msgstr "回應"
+
+#: includes/class-admin-settings.php:527
+msgid "Request"
+msgstr "要求"
+
+#: includes/class-admin-settings.php:518
+msgid "Enable Debug Type"
+msgstr "啟用偵錯類型"
+
+#: includes/class-admin-settings.php:512
+msgid "Enables debug mode for the plugin."
+msgstr "為外掛啟用偵錯模式。"
+
+#: includes/class-admin-settings.php:504
+msgid "Enable Debug Mode"
+msgstr "啟用偵錯模式"
+
+#: includes/class-admin-settings.php:493
+msgid "API Debug Configuration"
+msgstr "API 偵錯組態"
+
+#: includes/class-admin-settings.php:487
+msgid "Provides an API key for repositories that may require authentication."
+msgstr "為需要驗證的存放庫提供 API 金鑰。"
+
+#: includes/class-admin-settings.php:479
+msgid "API Key"
+msgstr "API 金鑰"
+
+#: includes/class-admin-settings.php:470
+msgid "Other"
+msgstr "其他主機"
+
+#: includes/class-admin-settings.php:460
+msgid "Your new API Host."
+msgstr "設定新的 API 主機。"
+
+#: includes/class-admin-settings.php:452
+msgid "API Host"
+msgstr "API 主機"
+
+#: includes/class-admin-settings.php:439
+msgid "Enable AspireUpdate API Rewrites"
+msgstr "啟用 AspireUpdate API 重寫"
+
+#: includes/class-admin-settings.php:428
+msgid "API Configuration"
+msgstr "API 組態"
+
+#: includes/class-admin-settings.php:329
+msgid "Reset"
+msgstr "重設"
+
+#: includes/class-admin-settings.php:319
+msgid "AspireUpdate Settings"
+msgstr "AspireUpdate 設定"
+
+#: includes/class-admin-settings.php:298
+msgid "Unexpected Error:"
+msgstr ""
+
+#: includes/class-admin-settings.php:133
+msgid "Settings have been reset to default."
+msgstr "設定已重設為預設值。"
+
+#. Author URI of the plugin
+#: aspire-update.php includes/class-branding.php:91
+#: includes/class-branding.php:100 includes/class-branding.php:108
+msgid "https://docs.aspirepress.org/aspireupdate/"
+msgstr "https://docs.aspirepress.org/aspireupdate/"
+
+#. Author of the plugin
+#: aspire-update.php
+msgid "AspirePress"
+msgstr "AspirePress"
+
+#. Description of the plugin
+#: aspire-update.php
+msgid "Update plugins and themes for WordPress."
+msgstr "更新 WordPress 的外掛及佈景主題。"
+
+#. Plugin URI of the plugin
+#: aspire-update.php
+msgid "https://aspirepress.org/"
+msgstr "https://aspirepress.org/"
+
+#. Plugin Name of the plugin
+#: aspire-update.php
+msgid "AspireUpdate"
+msgstr "AspireUpdate"

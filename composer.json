@@ -1,0 +1,38 @@
+{
+  "name": "afragen/aspireupdate-translations",
+  "description": "Translation language packs for Git Updater plugin",
+  "type": "library",
+  "keywords": [
+    "aspireupdate",
+    "language packs",
+    "translations"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andy Fragen",
+      "email": "andy@thefragens.com",
+      "homepage": "https://thefragens.com",
+      "role": "Developer"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/afragen/aspireupdate-translations"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/afragen/aspireupdate-translations/issues",
+    "source": "https://github.com/afragen/aspireupdate-translations"
+  },
+  "prefer-stable": true,
+  "require": {
+    "afragen/language-pack-maker": "dev-master"
+  },
+  "scripts": {
+    "make-language-packs": [
+      "php ./vendor/autoload.php"
+    ]
+  }
+}
