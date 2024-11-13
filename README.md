@@ -1,8 +1,8 @@
 # AspireUpdate Translations
 
-Translators, please make PRs here. You only need to submit PRs for the .po files, .mo, .json, and .l10n.php files will be generated automatically. Please add the .po files to the `languages` folder. Thanks.
+Translators, please make PRs here. You only need to submit PRs for the `.po` files.  `.mo`, `.json`, and `.l10n.php` files will be generated automatically. Please add the `.po` files to the `languages` folder.
 
-Uses [`Language_Pack_Maker`](https://github.com/afragen/language-pack-maker) installed via composer to create a directory of zip archives of translation .mo/.po/.json/.l10n.php files and a `language-pack.json` file containing data to pass to Git Updater or afragen/translations-updater.
+AspireUpdate Translations uses [`Language_Pack_Maker`](https://github.com/afragen/language-pack-maker) installed via `composer` to create a directory of zip archives of the translation files (.mo/.po/.json/.l10n.php) and a `language-pack.json` file containing data to pass to Git Updater or afragen/translations-updater.
 
 The format of the generated JSON file is as follows.
 
